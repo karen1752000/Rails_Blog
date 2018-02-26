@@ -11,8 +11,9 @@ Authors
 Karen Mitchell - Initial work
 
 
-
+````
 Acknowledgments
 guides.rubyonrails.org
 Ruby on Rails For Dummies by Barry A. Burd
 justinweiss.com
+````

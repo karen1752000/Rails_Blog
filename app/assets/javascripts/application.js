@@ -13,3 +13,5 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+alert("This is my JavaScript!");
