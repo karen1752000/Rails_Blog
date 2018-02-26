@@ -40,7 +40,7 @@ group :production do
  gem 'pg'
 
 end
-
+gem "paperclip"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

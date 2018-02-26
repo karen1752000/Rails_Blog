@@ -1,24 +1,18 @@
-# README
+#Rails Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created a blog using Ruby on Rails
 
-Things you may want to cover:
+Prerequisites
+I installed Devise gem to create Users and Normalize.css to make the browser render all elements more consistently and in line with modern standards. I also installed Heroku to run the blog.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+Authors
+Karen Mitchell - Initial work
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Acknowledgments
+guides.rubyonrails.org
+Ruby on Rails For Dummies by Barry A. Burd
+justinweiss.com
