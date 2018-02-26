@@ -36,7 +36,7 @@ a {
 	left: 0;
 	top: 0;
 	height: 100%;
-	background: #f5f7f9;
+	background: #d2d5db;
 	padding: 7em 0 0 0;
 	border-right: 1px solid #42d9f4;
 	#logo {
@@ -77,14 +77,14 @@ a {
 		right: 3em;
 		top: 80%;
 		font-size: .8em;
-		color: #9eafba;
+		color: #42d9f4;
 	}
 }
 
 .button {
 	outline: none;
 	background: transparent;
-	border: 1px solid #d6dce0;
+	border: 1px solid #42d9f4;
 	padding: .5em 1.5em;
 	border-radius: 1.5em;
 	&:hover {
@@ -109,7 +109,7 @@ a {
 	#header {
 		padding: 1em 3em;
 		border-bottom: 1px solid #42d9f4;
-		background: #f5f7f9;
+		background: #d2d5db;
 		color: #9eafba;
 		p {
 			display: inline;
